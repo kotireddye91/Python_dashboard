@@ -1,1 +1,3 @@
 Select * from tsblr_nsmr
+
+create temp tsble from tsblr_nsme3r where employe_id=2122
